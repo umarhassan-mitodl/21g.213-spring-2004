@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "legacy_uid": "7a1b2552-908c-7f99-b750-1379b978dc73",
+  "instructors": {
+    "content": [
+      "8bb6943b-bbda-b124-2047-d05ff1f85afc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "47a9a4f4-32a4-e328-b2af-1d6804070e7b",
+    "website": "21g-213-high-intermediate-academic-communication-spring-2004"
+  },
+  "course_title": "High-Intermediate Academic Communication",
+  "course_description": "The goal of this course is to review grammar and develop vocabulary building strategies to refine oral and written expression. Speaking and writing assignments are designed to expand communicative competence. Assignments are based on models and materials drawn from contemporary media (newspapers and magazines, television, Web). The models, materials, topics and assignments vary from semester to semester.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.214",
+  "primary_course_number": "21G.213",
+  "course_image_thumbnail": {
+    "content": "d94b67e3-5baf-0600-5405-a904370fabaf",
+    "website": "21g-213-high-intermediate-academic-communication-spring-2004"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "3bf7f13e-8ddf-4e7b-85f3-f316b7532c67",
+  "site_short_id": "21g.213-spring-2004",
+  "site_url_path": "courses/21g-213-high-intermediate-academic-communication-spring-2004",
+  "title": "Course Metadata"
+}
