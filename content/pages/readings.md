@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,11 +12,11 @@ uid: 5c21b144-4bd4-0c9a-f31c-233f23abdcfb
 
 Below are handouts used to complement the homework assigned from the course textbook. See the {{% resource_link 3495728e-070e-0a32-0a81-4ef7674da873 "assignments" %}} section for the textbook assignments.
 
-California Accent: {{% resource_link "dfb566c1-2786-466c-a90c-84b74196e12a" "Job hirers show bias against regional accents, study suggests" %}}
+California Accent: [Job hirers show bias against regional accents, study suggests](http://www.unt.edu/inhouse/august42000/accent.htm)
 
 "Editorial: Appositives." _New York Times_, 26 September 2003.
 
-{{% resource_link "a9246a7f-1f33-415a-be78-1f52f032e839" "Nonrestrictive Adjective Clause in Discourse" %}}
+[Nonrestrictive Adjective Clause in Discourse](http://grammar.about.com/od/basicsentencegrammar/a/restrnonradjc03.htm)
 
 Exceptions to Backshifting ({{% resource_link b7b6615a-70a1-7a84-385b-d0e3e785da4d "PDF" %}})
 
