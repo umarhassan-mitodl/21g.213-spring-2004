@@ -5,8 +5,6 @@ description: This resource contains the information regarding high-intermediate 
 file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/91b4bdf28e7cdc0eaa1b0bc386c92350_MIT21G_213S04_articles.pdf
 file_size: 282747
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

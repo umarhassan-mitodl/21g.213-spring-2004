@@ -5,8 +5,6 @@ description: This resource contains the information regarding high-intermediate 
 file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/dfc4b65cd3fb4b5660e1b880cb7a660b_MIT21G_213S04_punctuation.pdf
 file_size: 171280
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains the information regarding high-intermediate 
 file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/38018fa7bb2744212aba95c21c6d1709_MIT21G_213S04_ord_of_cumu.pdf
 file_size: 200695
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains the information regarding high-intermediate 
 file: /courses/21g-213-high-intermediate-academic-communication-spring-2004/ec4767f816dfcd43a56aba38e90e50aa_MIT21G_213S04_comma_rules.pdf
 file_size: 125477
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
